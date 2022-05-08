@@ -13,4 +13,3 @@ This file contain the Convoluational Neural Network Model that was developed for
 3. testimage.py
 This file is for the cnn.py. It will allow to test the model with external data.
 The images should be located in the directory of the testimage.py and cnn.py.
-The images should be in jpg format and call test1.jpg.
